@@ -26,7 +26,7 @@
 ## Установка и запуск
 ### 1. Клонирование репозитория
 ```bash
-git clone <ссылка_на_ваш_репозиторий>
+git clone git@github.com:jam-kaz/animation_project_2.git
 cd animation_project
 ```
 
